@@ -1,2 +1,2 @@
-# TechTuesdayUIChallenges
-Tech Tuesday UI Challenges
+# Tech Tuesday UI Challenges
+Repository housing all Tech Tuesday UI challenge submissions.
